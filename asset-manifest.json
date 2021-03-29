@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-actions/static/css/main.37a44042.chunk.css",
-    "main.js": "/react-actions/static/js/main.4386cbf5.chunk.js",
-    "main.js.map": "/react-actions/static/js/main.4386cbf5.chunk.js.map",
-    "runtime-main.js": "/react-actions/static/js/runtime-main.dd7a6f06.js",
-    "runtime-main.js.map": "/react-actions/static/js/runtime-main.dd7a6f06.js.map",
-    "static/js/2.f2242e25.chunk.js": "/react-actions/static/js/2.f2242e25.chunk.js",
-    "static/js/2.f2242e25.chunk.js.map": "/react-actions/static/js/2.f2242e25.chunk.js.map",
-    "static/js/3.585cfce6.chunk.js": "/react-actions/static/js/3.585cfce6.chunk.js",
-    "static/js/3.585cfce6.chunk.js.map": "/react-actions/static/js/3.585cfce6.chunk.js.map",
-    "index.html": "/react-actions/index.html",
-    "static/css/main.37a44042.chunk.css.map": "/react-actions/static/css/main.37a44042.chunk.css.map",
-    "static/js/2.f2242e25.chunk.js.LICENSE.txt": "/react-actions/static/js/2.f2242e25.chunk.js.LICENSE.txt"
+    "main.css": "/www.michellzipitria.com/static/css/main.37a44042.chunk.css",
+    "main.js": "/www.michellzipitria.com/static/js/main.4386cbf5.chunk.js",
+    "main.js.map": "/www.michellzipitria.com/static/js/main.4386cbf5.chunk.js.map",
+    "runtime-main.js": "/www.michellzipitria.com/static/js/runtime-main.4e0dec35.js",
+    "runtime-main.js.map": "/www.michellzipitria.com/static/js/runtime-main.4e0dec35.js.map",
+    "static/js/2.f2242e25.chunk.js": "/www.michellzipitria.com/static/js/2.f2242e25.chunk.js",
+    "static/js/2.f2242e25.chunk.js.map": "/www.michellzipitria.com/static/js/2.f2242e25.chunk.js.map",
+    "static/js/3.585cfce6.chunk.js": "/www.michellzipitria.com/static/js/3.585cfce6.chunk.js",
+    "static/js/3.585cfce6.chunk.js.map": "/www.michellzipitria.com/static/js/3.585cfce6.chunk.js.map",
+    "index.html": "/www.michellzipitria.com/index.html",
+    "static/css/main.37a44042.chunk.css.map": "/www.michellzipitria.com/static/css/main.37a44042.chunk.css.map",
+    "static/js/2.f2242e25.chunk.js.LICENSE.txt": "/www.michellzipitria.com/static/js/2.f2242e25.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd7a6f06.js",
+    "static/js/runtime-main.4e0dec35.js",
     "static/js/2.f2242e25.chunk.js",
     "static/css/main.37a44042.chunk.css",
     "static/js/main.4386cbf5.chunk.js"
