@@ -1,0 +1,23 @@
+.head{
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.head ul{
+  padding-left: 0px;
+  margin: 0;
+  list-style: none;
+  display: flex;
+}
+.head a{
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #00aeff;
+  padding: 15px;
+  font-size: 19px;
+}
+.head a:hover{
+  color: #5eccff;
+  transition: border-bottom 0.1s;
+  border-bottom: 5px solid #5eccff;
+}

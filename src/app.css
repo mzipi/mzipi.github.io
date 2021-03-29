@@ -1,0 +1,10 @@
+.main{
+  padding: 0;
+  width: 800px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+body{
+  margin: 0;
+}
