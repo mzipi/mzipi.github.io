@@ -5,10 +5,10 @@ function Head(){
     <div className="head">
       <nav>
         <ul>
-          <li><a href="#">INICIO</a></li>
-          <li><a href="#">PERFIL</a></li>
-          <li><a href="#">BLOG</a></li>
-          <li><a href="#">PORTFOLIO</a></li>
+          <li><a href="/">INICIO</a></li>
+          <li><a href="/perfil">PERFIL</a></li>
+          <li><a href="/blog">BLOG</a></li>
+          <li><a href="/portfolio">PORTFOLIO</a></li>
         </ul>
       </nav>
     </div>
