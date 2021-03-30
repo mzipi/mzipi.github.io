@@ -1,6 +1,14 @@
+import Post1 from './Post1';
+import Post2 from './Post2';
+import Post3 from './Post3';
+
 function Blog(){
     return(
-        <h1>Blog</h1>
+        <div>
+            <Post1 />
+            <Post2 />
+            <Post3 />
+        </div>
     )
 }
 export default Blog;

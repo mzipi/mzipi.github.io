@@ -1,14 +1,14 @@
 import './head.css';
+import { Link } from 'react-router-dom';
 
 function Head(){
   return(
     <div className="head">
       <nav>
         <ul>
-          <li><a href="/">INICIO</a></li>
-          <li><a href="/perfil">PERFIL</a></li>
-          <li><a href="/blog">BLOG</a></li>
-          <li><a href="/portfolio">PORTFOLIO</a></li>
+          <li><Link to="/">INICIO</Link></li>
+          <li><Link to="/blog">BLOG</Link></li>
+          <li><Link to="/portfolio">PORTFOLIO</Link></li>
         </ul>
       </nav>
     </div>
