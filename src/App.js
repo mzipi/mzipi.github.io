@@ -2,7 +2,7 @@ import Main from './Main';
 import Head from './Head';
 import './app.css';
 import './head.css';
-import { BrowserRouter, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
