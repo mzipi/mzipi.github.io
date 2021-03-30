@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/blog.michellzipitria.com/static/css/main.37a44042.chunk.css",
-    "main.js": "/blog.michellzipitria.com/static/js/main.4386cbf5.chunk.js",
-    "main.js.map": "/blog.michellzipitria.com/static/js/main.4386cbf5.chunk.js.map",
-    "runtime-main.js": "/blog.michellzipitria.com/static/js/runtime-main.09f0e2ae.js",
-    "runtime-main.js.map": "/blog.michellzipitria.com/static/js/runtime-main.09f0e2ae.js.map",
-    "static/js/2.f2242e25.chunk.js": "/blog.michellzipitria.com/static/js/2.f2242e25.chunk.js",
-    "static/js/2.f2242e25.chunk.js.map": "/blog.michellzipitria.com/static/js/2.f2242e25.chunk.js.map",
-    "static/js/3.585cfce6.chunk.js": "/blog.michellzipitria.com/static/js/3.585cfce6.chunk.js",
-    "static/js/3.585cfce6.chunk.js.map": "/blog.michellzipitria.com/static/js/3.585cfce6.chunk.js.map",
+    "main.css": "/blog.michellzipitria.com/static/css/main.8bfba4bc.chunk.css",
+    "main.js": "/blog.michellzipitria.com/static/js/main.9b3ebfc0.chunk.js",
+    "main.js.map": "/blog.michellzipitria.com/static/js/main.9b3ebfc0.chunk.js.map",
+    "runtime-main.js": "/blog.michellzipitria.com/static/js/runtime-main.0649cb07.js",
+    "runtime-main.js.map": "/blog.michellzipitria.com/static/js/runtime-main.0649cb07.js.map",
+    "static/js/2.c17a878b.chunk.js": "/blog.michellzipitria.com/static/js/2.c17a878b.chunk.js",
+    "static/js/2.c17a878b.chunk.js.map": "/blog.michellzipitria.com/static/js/2.c17a878b.chunk.js.map",
+    "static/js/3.5d751523.chunk.js": "/blog.michellzipitria.com/static/js/3.5d751523.chunk.js",
+    "static/js/3.5d751523.chunk.js.map": "/blog.michellzipitria.com/static/js/3.5d751523.chunk.js.map",
     "index.html": "/blog.michellzipitria.com/index.html",
-    "static/css/main.37a44042.chunk.css.map": "/blog.michellzipitria.com/static/css/main.37a44042.chunk.css.map",
-    "static/js/2.f2242e25.chunk.js.LICENSE.txt": "/blog.michellzipitria.com/static/js/2.f2242e25.chunk.js.LICENSE.txt"
+    "static/css/main.8bfba4bc.chunk.css.map": "/blog.michellzipitria.com/static/css/main.8bfba4bc.chunk.css.map",
+    "static/js/2.c17a878b.chunk.js.LICENSE.txt": "/blog.michellzipitria.com/static/js/2.c17a878b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.09f0e2ae.js",
-    "static/js/2.f2242e25.chunk.js",
-    "static/css/main.37a44042.chunk.css",
-    "static/js/main.4386cbf5.chunk.js"
+    "static/js/runtime-main.0649cb07.js",
+    "static/js/2.c17a878b.chunk.js",
+    "static/css/main.8bfba4bc.chunk.css",
+    "static/js/main.9b3ebfc0.chunk.js"
   ]
 }
