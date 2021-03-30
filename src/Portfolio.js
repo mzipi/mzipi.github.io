@@ -1,6 +1,6 @@
 function Portfolio(){
     return(
-        <p>Portfolio</p>
+        <h1>Portfolio</h1>
     )
 }
 export default Portfolio;
