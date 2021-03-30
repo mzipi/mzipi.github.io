@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/blog.michellzipitria.com/static/css/main.8bfba4bc.chunk.css",
-    "main.js": "/blog.michellzipitria.com/static/js/main.9b3ebfc0.chunk.js",
-    "main.js.map": "/blog.michellzipitria.com/static/js/main.9b3ebfc0.chunk.js.map",
-    "runtime-main.js": "/blog.michellzipitria.com/static/js/runtime-main.0649cb07.js",
-    "runtime-main.js.map": "/blog.michellzipitria.com/static/js/runtime-main.0649cb07.js.map",
-    "static/js/2.c17a878b.chunk.js": "/blog.michellzipitria.com/static/js/2.c17a878b.chunk.js",
-    "static/js/2.c17a878b.chunk.js.map": "/blog.michellzipitria.com/static/js/2.c17a878b.chunk.js.map",
-    "static/js/3.5d751523.chunk.js": "/blog.michellzipitria.com/static/js/3.5d751523.chunk.js",
-    "static/js/3.5d751523.chunk.js.map": "/blog.michellzipitria.com/static/js/3.5d751523.chunk.js.map",
-    "index.html": "/blog.michellzipitria.com/index.html",
-    "static/css/main.8bfba4bc.chunk.css.map": "/blog.michellzipitria.com/static/css/main.8bfba4bc.chunk.css.map",
-    "static/js/2.c17a878b.chunk.js.LICENSE.txt": "/blog.michellzipitria.com/static/js/2.c17a878b.chunk.js.LICENSE.txt"
+    "main.css": "/mzipi.github.io/static/css/main.b46d0d25.chunk.css",
+    "main.js": "/mzipi.github.io/static/js/main.8072d859.chunk.js",
+    "main.js.map": "/mzipi.github.io/static/js/main.8072d859.chunk.js.map",
+    "runtime-main.js": "/mzipi.github.io/static/js/runtime-main.ff3a8bc8.js",
+    "runtime-main.js.map": "/mzipi.github.io/static/js/runtime-main.ff3a8bc8.js.map",
+    "static/js/2.8bc4449e.chunk.js": "/mzipi.github.io/static/js/2.8bc4449e.chunk.js",
+    "static/js/2.8bc4449e.chunk.js.map": "/mzipi.github.io/static/js/2.8bc4449e.chunk.js.map",
+    "static/js/3.efb7b786.chunk.js": "/mzipi.github.io/static/js/3.efb7b786.chunk.js",
+    "static/js/3.efb7b786.chunk.js.map": "/mzipi.github.io/static/js/3.efb7b786.chunk.js.map",
+    "index.html": "/mzipi.github.io/index.html",
+    "static/css/main.b46d0d25.chunk.css.map": "/mzipi.github.io/static/css/main.b46d0d25.chunk.css.map",
+    "static/js/2.8bc4449e.chunk.js.LICENSE.txt": "/mzipi.github.io/static/js/2.8bc4449e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0649cb07.js",
-    "static/js/2.c17a878b.chunk.js",
-    "static/css/main.8bfba4bc.chunk.css",
-    "static/js/main.9b3ebfc0.chunk.js"
+    "static/js/runtime-main.ff3a8bc8.js",
+    "static/js/2.8bc4449e.chunk.js",
+    "static/css/main.b46d0d25.chunk.css",
+    "static/js/main.8072d859.chunk.js"
   ]
 }
