@@ -1,20 +1,25 @@
 import Main from './Main';
-import Head from './Head';
-import Blog from './Blog';
+import Nav from './Nav';
+import Tech from './Tech';
+import Games from './Games';
 import Portfolio from './Portfolio';
-import './app.css';
+import './nav.css';
+import './article.css';
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
     <BrowserRouter>
-      <Head />
+      <Nav />
       <Switch>
         <Route exact path="/">
           <Main />
         </Route>
-        <Route path="/blog">
-          <Blog />
+        <Route path="/tecno">
+          <Tech />
+        </Route>
+        <Route path="/juegos">
+          <Games />
         </Route>
         <Route path="/portfolio">
           <Portfolio />
