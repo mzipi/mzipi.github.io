@@ -2,8 +2,10 @@ function Tecno3(){
     return(
         <div className="article">
             <article>
-                <h3>Tecno 3</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium quis illo et natus culpa placeat voluptate quia possimus dignissimos fugiat ullam quae, labore corporis modi velit quo porro aspernatur nostrum!</p>
+                <h3>Microsoft detrás de Discord</h3>
+                <p>Microsoft está negociando la compra de discord.</p>
+                <p>Y se rumorea que la transacción podría ser por 10.000 millones de dolares.</p>
+                <p>La negociaciones finalizarían en abril.</p>
             </article>
         </div>
     )

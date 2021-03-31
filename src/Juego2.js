@@ -2,8 +2,10 @@ function Juego2(){
     return(
         <div className="article">
             <article>
-                <h3>Juego 2</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium quis illo et natus culpa placeat voluptate quia possimus dignissimos fugiat ullam quae, labore corporis modi velit quo porro aspernatur nostrum!</p>
+                <h3>Prime gaming Abril</h3>
+                <p>The escapist, Aces of the luftwaffe: Squadron, Before i forget, Moving out, Move or die: Couch party edition.</p>
+                <p>Estos juegos estarán disponibles a partir del 1 de abril.</p>
+                <p>Para hacerte con ellos necesitas una suscripción a Amazon Prime o Prime Gaming.</p>
             </article>
         </div>
     )

@@ -2,8 +2,9 @@ function Juego3(){
     return(
         <div className="article">
             <article>
-                <h3>Juego 3</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium quis illo et natus culpa placeat voluptate quia possimus dignissimos fugiat ullam quae, labore corporis modi velit quo porro aspernatur nostrum!</p>
+                <h3>Xbox Live cambia de nombre</h3>
+                <p>Proximamente el servicio de Microsoft pasará a llamarse Xbox Network.</p>
+                <p>El cambio de nombre se debe a que Microsoft quiere diferenciar Xbox Live de Xbox Live Gold</p>
             </article>
         </div>
     )

@@ -2,8 +2,10 @@ function Juego1(){
     return(
         <div className="article">
             <article>
-                <h3>Juego 1</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi dolorum in blanditiis libero tempore esse unde earum eius maiores voluptatibus. At quibusdam distinctio, commodi asperiores error dolorum impedit alias. Minus.</p>
+                <h3>PS Plus Abril</h3>
+                <p>Los juegos que regalara PS Plus en abril ya han sido anunciados.</p>
+                <p>Oddworld: Soulstorm para PS5, Days Gone y Zombie Army 4: Dead War para PS4 y PS5.</p>
+                <p>Se podrán agregar a la cuenta a partir del 6 de abril.</p>
             </article>
         </div>
     )
